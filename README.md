@@ -1,2 +1,0 @@
-# tinDog-bootstrap
-Learning bootstrap
